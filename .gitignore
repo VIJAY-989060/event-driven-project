@@ -1,0 +1,6 @@
+# Ignore AWS credentials and system files
+.aws/
+*.tfstate
+*.tfstate.backup
+*.zip
+
