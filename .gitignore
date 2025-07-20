@@ -2,5 +2,4 @@
 .aws/
 *.tfstate
 *.tfstate.backup
-*.zip
 
