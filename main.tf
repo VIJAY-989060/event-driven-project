@@ -82,7 +82,7 @@ resource "aws_sns_topic" "report_topic" {
 resource "aws_sns_topic_subscription" "email_subscription" {
   topic_arn = aws_sns_topic.report_topic.arn
   protocol  = "email"
-  endpoint  = "your-email@example.com"
+  endpoint  = "vjjaiwal@gmail.com"
 }
 
 # eventbridge.tf
